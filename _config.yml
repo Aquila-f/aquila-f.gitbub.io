@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-tw"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Tai-Lin Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jack"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Tai Lin Wu (Jack Wu)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "cool"
+  location         : "Taiwan"
+  employer         : "Synology Inc."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wu.c@nycu.edu.tw" 
 
   # Academic websites
   academia         : # URL
